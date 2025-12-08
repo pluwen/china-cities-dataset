@@ -2477,14 +2477,12 @@
       <City Name="涪陵區" Code="2" />
       <City Name="渝中區" Code="3" />
       <City Name="大渡口區" Code="4" />
-      <City Name="江北區" Code="5" />
       <City Name="沙坪壩區" Code="6" />
       <City Name="九龍坡區" Code="7" />
       <City Name="南岸區" Code="8" />
       <City Name="北碚區" Code="9" />
       <City Name="綦江區" Code="10" />
       <City Name="大足區" Code="11" />
-      <City Name="渝北區" Code="12" />
       <City Name="巴南區" Code="13" />
       <City Name="黔江區" Code="14" />
       <City Name="長壽區" Code="15" />
@@ -2499,6 +2497,7 @@
       <City Name="開州區" Code="54" />
       <City Name="梁平區" Code="55" />
       <City Name="武隆區" Code="56" />
+      <City Name="兩江新區" Code="57" />
       <City Name="城口縣" Code="29" />
       <City Name="豐都縣" Code="30" />
       <City Name="墊江縣" Code="31" />
@@ -3058,13 +3057,13 @@
       <City Name="林芝" Code="4">
         <Region Name="巴宜區" Code="2" />
         <Region Name="工布江達縣" Code="21" />
-        <Region Name="米林縣" Code="22" />
         <Region Name="墨脫縣" Code="23" />
         <Region Name="波密縣" Code="24" />
         <Region Name="察隅縣" Code="25" />
         <Region Name="朗　縣" Code="26" />
+        <Region Name="米林市" Code="81" />
       </City>
-      <City Name="山南" Code="22">
+      <City Name="山南" Code="5">
         <Region Name="乃東區" Code="2" />
         <Region Name="扎囊縣" Code="21" />
         <Region Name="貢嘎縣" Code="22" />
@@ -3075,8 +3074,8 @@
         <Region Name="洛扎縣" Code="27" />
         <Region Name="加查縣" Code="28" />
         <Region Name="隆子縣" Code="29" />
-        <Region Name="錯那縣" Code="30" />
         <Region Name="浪卡子縣" Code="31" />
+        <Region Name="錯那市" Code="81" />
       </City>
       <City Name="那曲" Code="24">
         <Region Name="色尼區" Code="2" />
@@ -3536,6 +3535,8 @@
         <Region Name="策勒縣" Code="25" />
         <Region Name="于田縣" Code="26" />
         <Region Name="民豐縣" Code="27" />
+        <Region Name="和康縣" Code="28" />
+        <Region Name="和安縣" Code="29" />
       </City>
       <City Name="伊犁哈薩克自治州" Code="40">
         <Region Name="伊寧市" Code="2" />
@@ -3579,7 +3580,7 @@
       <City Name="昆玉市" Code="9" />
       <City Name="胡楊河市" Code="10" />
       <City Name="新星市" Code="11" />
-      <City Name="白楊市" Code="" />
+      <City Name="白楊市" Code="12" />
     </State>
     <State Name="臺灣" Code="71">
       <City Name="臺北市" Code="1" />
