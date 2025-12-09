@@ -3582,56 +3582,133 @@
       <City Name="新星市" Code="11" />
       <City Name="白杨市" Code="12" />
     </State>
-    <State Name="台湾" Code="71">
-      <City Name="台北市" Code="1" />
-      <City Name="新北市" Code="2" />
-      <City Name="桃园市" Code="3" />
-      <City Name="台中市" Code="4" />
-      <City Name="台南市" Code="5" />
-      <City Name="高雄市" Code="6" />
-      <City Name="基隆市" Code="7" />
-      <City Name="新竹市" Code="8" />
-      <City Name="嘉义市" Code="9" />
-      <City Name="新竹县" Code="10" />
-      <City Name="苗栗县" Code="11" />
-      <City Name="彰化县" Code="12" />
-      <City Name="南投县" Code="13" />
-      <City Name="云林县" Code="14" />
-      <City Name="嘉义县" Code="15" />
-      <City Name="屏东县" Code="16" />
-      <City Name="宜兰县" Code="17" />
-      <City Name="花莲县" Code="18" />
-      <City Name="台东县" Code="19" />
-      <City Name="澎湖县" Code="20" />
+    <State Name="台湾省" Code="71">
+      <City Name="台北市" Code="1">
+        <Region Name="中正区" Code="1" />
+        <Region Name="大同区" Code="2" />
+        <Region Name="中山区" Code="3" />
+        <Region Name="松山区" Code="4" />
+        <Region Name="大安区" Code="5" />
+        <Region Name="万华区" Code="6" />
+        <Region Name="信义区" Code="7" />
+        <Region Name="士林区" Code="8" />
+        <Region Name="北投区" Code="9" />
+        <Region Name="内湖区" Code="10" />
+        <Region Name="南港区" Code="11" />
+        <Region Name="文山区" Code="12" />
+        <Region Name="其它区" Code="13" />
+      </City>
+      <City Name="高雄市" Code="2">
+        <Region Name="新兴区" Code="1" />
+        <Region Name="前金区" Code="2" />
+        <Region Name="苩雅区" Code="3" />
+        <Region Name="盐埕区" Code="4" />
+        <Region Name="鼓山区" Code="5" />
+        <Region Name="旗津区" Code="6" />
+        <Region Name="前镇区" Code="7" />
+        <Region Name="三民区" Code="8" />
+        <Region Name="左营区" Code="9" />
+        <Region Name="楠梓区" Code="10" />
+        <Region Name="小港区" Code="11" />
+        <Region Name="其它区" Code="12" />
+      </City>
+      <City Name="台南市" Code="3">
+        <Region Name="中西区" Code="1" />
+        <Region Name="东区" Code="2" />
+        <Region Name="南区" Code="3" />
+        <Region Name="北区" Code="4" />
+        <Region Name="安平区" Code="5" />
+        <Region Name="安南区" Code="6" />
+        <Region Name="其它区" Code="7" />
+      </City>
+      <City Name="台中市" Code="4">
+        <Region Name="中区" Code="1" />
+        <Region Name="东区" Code="2" />
+        <Region Name="南区" Code="3" />
+        <Region Name="西区" Code="4" />
+        <Region Name="北区" Code="5" />
+        <Region Name="北屯区" Code="6" />
+        <Region Name="西屯区" Code="7" />
+        <Region Name="南屯区" Code="8" />
+        <Region Name="其它区" Code="9" />
+      </City>
+      <City Name="金门县" Code="5" />
+      <City Name="南投县" Code="6" />
+      <City Name="基隆市" Code="7">
+        <Region Name="仁爱区" Code="1" />
+        <Region Name="信义区" Code="2" />
+        <Region Name="中正区" Code="3" />
+        <Region Name="中山区" Code="4" />
+        <Region Name="安乐区" Code="5" />
+        <Region Name="暖暖区" Code="6" />
+        <Region Name="七堵区" Code="7" />
+        <Region Name="其它区" Code="8" />
+      </City>
+      <City Name="新竹市" Code="8">
+        <Region Name="东区" Code="1" />
+        <Region Name="北区" Code="2" />
+        <Region Name="香山区" Code="3" />
+        <Region Name="其它区" Code="4" />
+      </City>
+      <City Name="嘉义市" Code="9">
+        <Region Name="东区" Code="1" />
+        <Region Name="西区" Code="2" />
+        <Region Name="其它区" Code="3" />
+      </City>
+      <City Name="新北市" Code="11" />
+      <City Name="宜兰县" Code="12" />
+      <City Name="新竹县" Code="13" />
+      <City Name="桃园县" Code="14" />
+      <City Name="苗栗县" Code="15" />
+      <City Name="彰化县" Code="17" />
+      <City Name="嘉义县" Code="19" />
+      <City Name="云林县" Code="21" />
+      <City Name="屏东县" Code="24" />
+      <City Name="台东县" Code="25" />
+      <City Name="花莲县" Code="26" />
+      <City Name="澎湖县" Code="27" />
     </State>
-    <State Name="香港" Code="81">
-      <City Name="中西区" Code="HCW" />
-      <City Name="东区" Code="HEA" />
-      <City Name="南区" Code="HSO" />
-      <City Name="湾仔区" Code="HWC" />
-      <City Name="九龙城区" Code="KKC" />
-      <City Name="深水埗区" Code="KSS" />
-      <City Name="油尖旺区" Code="KYT" />
-      <City Name="黄大仙区" Code="KWT" />
-      <City Name="观塘区" Code="KKT" />
-      <City Name="北区" Code="NNO" />
-      <City Name="西贡区" Code="NSK" />
-      <City Name="沙田区" Code="NST" />
-      <City Name="大埔区" Code="NTP" />
-      <City Name="离岛区" Code="NIS" />
-      <City Name="葵青区" Code="NKT" />
-      <City Name="荃湾区" Code="NTW" />
-      <City Name="屯门区" Code="NTM" />
-      <City Name="元朗区" Code="NYL" />
+    <State Name="香港特别行政区" Code="81">
+      <City Name="香港岛" Code="1">
+        <Region Name="中西区" Code="1" />
+        <Region Name="湾仔" Code="2" />
+        <Region Name="东区" Code="3" />
+        <Region Name="南区" Code="4" />
+      </City>
+      <City Name="九龙" Code="2">
+        <Region Name="九龙城区" Code="1" />
+        <Region Name="油尖旺区" Code="2" />
+        <Region Name="深水埗区" Code="3" />
+        <Region Name="黄大仙区" Code="4" />
+        <Region Name="观塘区" Code="5" />
+      </City>
+      <City Name="新界" Code="3">
+        <Region Name="北区" Code="1" />
+        <Region Name="大埔区" Code="2" />
+        <Region Name="沙田区" Code="3" />
+        <Region Name="西贡区" Code="4" />
+        <Region Name="元朗区" Code="5" />
+        <Region Name="屯门区" Code="6" />
+        <Region Name="荃湾区" Code="7" />
+        <Region Name="葵青区" Code="8" />
+        <Region Name="离岛区" Code="9" />
+      </City>
     </State>
-    <State Name="澳门" Code="82">
-      <City Name="花地玛堂区" Code="OLF" />
-      <City Name="圣安多尼堂区" Code="ANT" />
-      <City Name="大堂区" Code="CAT" />
-      <City Name="望德堂区" Code="LAW" />
-      <City Name="风顺堂区" Code="LAZ" />
-      <City Name="氹仔" Code="TPA" />
-      <City Name="路环" Code="CLN" />
+    <State Name="澳门特别行政区" Code="82">
+      <City Name="澳门半岛" Code="1">
+        <Region Name="大堂区" Code="1" />
+        <Region Name="风顺堂区" Code="2" />
+        <Region Name="花地玛堂区" Code="3" />
+        <Region Name="花王堂区" Code="4" />
+        <Region Name="望德堂区" Code="5" />
+        <Region Name="其他区" Code="6" />
+      </City>
+      <City Name="离岛" Code="2">
+        <Region Name="嘉模堂区" Code="1" />
+        <Region Name="路凼填海区" Code="2" />
+        <Region Name="圣方济各堂区" Code="3" />
+        <Region Name="其他区" Code="4" />
+      </City>
     </State>
   </CountryRegion>
   <CountryRegion Name="阿尔巴尼亚" Code="ALB">
