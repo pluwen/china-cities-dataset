@@ -3584,7 +3584,7 @@
     </State>
     <State Name="台湾" Code="71">
       <City Name="台北市" Code="1" />
-      <City Name="台北市" Code="2" />
+      <City Name="新北市" Code="2" />
       <City Name="桃园市" Code="3" />
       <City Name="台中市" Code="4" />
       <City Name="台南市" Code="5" />
