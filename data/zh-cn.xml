@@ -3524,6 +3524,7 @@
       <Region Name="伽师县" Code="29" />
       <Region Name="巴楚县" Code="30" />
       <Region Name="塔什库尔干塔吉克自治县" Code="31" />
+      <Region Name="岑岭县" Code="32" />
     </City>
     <City Name="和田地区" Code="32">
       <Region Name="和田市" Code="1" />
@@ -3580,6 +3581,7 @@
     <City Name="胡杨河市" Code="10" />
     <City Name="新星市" Code="11" />
     <City Name="白杨市" Code="12" />
+    <City Name="草湖市" Code="13" />
   </State>
   <State Name="台湾省" Code="71">
     <City Name="台北市" Code="1">
