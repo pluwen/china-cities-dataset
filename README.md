@@ -25,4 +25,4 @@ XML 格式，编码为UTF-8。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/china-cities&type=Date)](https://star-history.com/#pluwen/china-cities&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/china-cities&type=Date)](https://star-history.dera.page/#pluwen/china-cities&Date)
